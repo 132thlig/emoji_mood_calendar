@@ -24,6 +24,7 @@ emoji_mood_calendar
 └── tsconfig.json
 ```
 이하는 creat-next-app으로 만들었을때 자동으로 써진 내용입니다.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
