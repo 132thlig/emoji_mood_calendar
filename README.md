@@ -1,6 +1,6 @@
 MoodCalendar.tsx
 사용자 감정(무드)을 기록하고 캘린더에 시각화하는 컴포넌트입니다. Tailwind CSS와 React를 사용해 제작되었습니다.
-
+```
 ## 디렉터리 (MoodCalendar.tsx만 건들임)
 emoji_mood_calendar
 ├── public/
@@ -22,7 +22,7 @@ emoji_mood_calendar
 ├── tailwind.config.ts
 └── tsconfig.json
 #### 이하는 creat-next-app으로 만들었을때 자동으로 써진 내용입니다.
-
+```
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
